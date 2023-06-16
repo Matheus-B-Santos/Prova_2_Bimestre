@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            comboBox1 = new ComboBox();
+            cb_funcao = new ComboBox();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -39,19 +39,18 @@
             button1 = new Button();
             button2 = new Button();
             label5 = new Label();
-            textBox4 = new TextBox();
-            maskedTextBox1 = new MaskedTextBox();
+            tx_salario = new TextBox();
             SuspendLayout();
             // 
-            // comboBox1
+            // cb_funcao
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Médico", "TI", "ADM" });
-            comboBox1.Location = new Point(193, 142);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(121, 23);
-            comboBox1.TabIndex = 0;
-            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            cb_funcao.FormattingEnabled = true;
+            cb_funcao.Items.AddRange(new object[] { "Médico", "TI", "ADM" });
+            cb_funcao.Location = new Point(193, 142);
+            cb_funcao.Name = "cb_funcao";
+            cb_funcao.Size = new Size(121, 23);
+            cb_funcao.TabIndex = 0;
+            cb_funcao.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // label1
             // 
@@ -146,27 +145,19 @@
             label5.TabIndex = 10;
             label5.Text = "Salario:";
             // 
-            // textBox4
+            // tx_salario
             // 
-            textBox4.Location = new Point(193, 190);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(121, 23);
-            textBox4.TabIndex = 11;
-            // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.Location = new Point(446, 184);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(100, 23);
-            maskedTextBox1.TabIndex = 12;
+            tx_salario.Location = new Point(193, 190);
+            tx_salario.Name = "tx_salario";
+            tx_salario.Size = new Size(121, 23);
+            tx_salario.TabIndex = 11;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(maskedTextBox1);
-            Controls.Add(textBox4);
+            Controls.Add(tx_salario);
             Controls.Add(label5);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -177,7 +168,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(comboBox1);
+            Controls.Add(cb_funcao);
             Name = "Form1";
             Text = "Formulario_cadastro";
             ResumeLayout(false);
@@ -186,7 +177,7 @@
 
         #endregion
 
-        private ComboBox comboBox1;
+        private ComboBox cb_funcao;
         private Label label1;
         private Label label2;
         private Label label3;
@@ -197,7 +188,6 @@
         private Button button1;
         private Button button2;
         private Label label5;
-        private TextBox textBox4;
-        private MaskedTextBox maskedTextBox1;
+        private TextBox tx_salario;
     }
 }
