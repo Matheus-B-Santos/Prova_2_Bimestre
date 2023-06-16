@@ -1,0 +1,17 @@
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\bin\Debug\net6.0-windows\PROVA_2_Bimestre.exe
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\bin\Debug\net6.0-windows\PROVA_2_Bimestre.deps.json
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\bin\Debug\net6.0-windows\PROVA_2_Bimestre.runtimeconfig.json
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\bin\Debug\net6.0-windows\PROVA_2_Bimestre.dll
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\bin\Debug\net6.0-windows\PROVA_2_Bimestre.pdb
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.Form1.resources
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.csproj.GenerateResource.cache
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.AssemblyInfo.cs
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.dll
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\refint\PROVA_2_Bimestre.dll
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.pdb
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\PROVA_2_Bimestre.genruntimeconfig.cache
+C:\Users\2022102020083\source\repos\PROVA_2_Bimestre\PROVA_2_Bimestre\obj\Debug\net6.0-windows\ref\PROVA_2_Bimestre.dll
